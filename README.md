@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Semiramis</h1>
-<h3 align="center">Enthusiastic data science from Mexico</h3>
+<h3 align="center">Enthusiastic Data Science from Mexico</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=semilun4&label=Profile%20views&color=0e75b6&style=flat" alt="semilun4" /> </p>
+💜 I’m interested in **data with a gender perspective**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=semilun4" alt="semilun4" /></a> </p>
+🌱 I’m currently learning **Backend with Django**
 
-- 💜 I’m interested in **data with a gender perspective**
+✨ I’m looking to improve on **Data Science**
 
-- 🌱 I’m currently learning **Backend with Django**
-
-- ✨ I’m looking to improve on **Data Science**
-
-- 💬 Ask me about **Python and Maths**
+💬 Ask me about **Python and Maths**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
