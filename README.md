@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Semiramis</h1>
+<h1 align="center">Hi 🙃, I'm Semiramis</h1>
 <h3 align="center">Enthusiastic Data Science from Mexico</h3>
 
 💜 I’m interested in **data with a gender perspective**
