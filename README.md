@@ -1,4 +1,4 @@
-<h1 align="center">Hi starshine the earth says hello!</h1>
+<h1 align="center">Hi starshine✨ the earth says hello!</h1>
 <h3 align="center">Enthusiastic Data Science from Mexico</h3>
 
 💜 I’m interested in **data with a gender perspective**
