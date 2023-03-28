@@ -3,11 +3,9 @@
 
 💜 I’m interested in **data with a gender perspective**
 
-🌱 I’m currently learning **Backend with Django**
+🌱 I’m currently working as a **jr data scientist**
 
-✨ I’m looking to improve on **Data Science**
-
-💬 Ask me about **Python and Maths**
+✨ I’m looking to improve looking to improve my skills in **Python, R and SAS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
