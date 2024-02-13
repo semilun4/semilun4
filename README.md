@@ -3,9 +3,9 @@
 
 💜 I’m interested in **data with a gender perspective**
 
-🌱 I’m currently working as a **jr data scientist**
+🌱 I was working as a **jr data scientist** in AIS Group.
 
-✨ I’m looking to improve looking to improve my skills in **Python, R and SAS**
+✨ I’m studying a master's in Statistical Computing at CIMAT Monterrey.  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
