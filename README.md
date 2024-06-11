@@ -3,7 +3,7 @@
 
 💜 I’m interested in **data with a gender perspective**
 
-🌱 I was working as a **jr data scientist** in AIS Group.
+🌱 I was working as a **jr data scientist**.
 
 ✨ I’m studying a master's in Statistical Computing at CIMAT Monterrey.  
 
