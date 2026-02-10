@@ -1,11 +1,11 @@
 <h1 align="center">Hi starshine✨ the earth says hello!</h1>
 <h3 align="center">Enthusiastic Data Science from Mexico</h3>
 
-💜 I’m interested in **data with a gender perspective**
+🌱 Data Scientist with a background in statistics and applied analytics
 
-🌱 I was working as a **jr data scientist**.
+✨ Master’s student in Statistical Computing at CIMAT Monterrey
 
-✨ I’m studying a master's in Statistical Computing at CIMAT Monterrey.  
+💜 Interested in data projects with a gender perspective, social impact, and strong statistical rigor
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
